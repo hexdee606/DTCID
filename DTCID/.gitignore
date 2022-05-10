@@ -17,7 +17,6 @@
 mono_crash.*
 
 # Build results
-[Dd]ebug/
 [Dd]ebugPublic/
 [Rr]elease/
 [Rr]eleases/
@@ -352,5 +351,5 @@ MigrationBackup/
 CommonFunction.vb
 DTCID.pfx
 .gitignore
-My Project/*
-obj/*
+My Project/
+obj/
