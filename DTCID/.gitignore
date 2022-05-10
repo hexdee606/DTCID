@@ -351,3 +351,6 @@ MigrationBackup/
 
 CommonFunction.vb
 DTCID.pfx
+.gitignore
+My Project/*
+obj/*
