@@ -24,7 +24,6 @@
 - [x] No internet is required.
 - [x] Save tons of paper.
 
-
 ## **Required**
 - MS access 2010 `required`
 - MS Access Database Engine 2010 `required`
