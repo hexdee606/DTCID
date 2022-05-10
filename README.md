@@ -18,9 +18,11 @@
 
 ## **Features** 
 
-1. Open source
-2. Uses microsoft access
-3. Stores upto 1000 users records.
+- [x] Easy to use.
+- [x] Required fewer system resources.
+- [x] Works on Microsoft Access.
+- [x] No internet is required.
+- [x] Save tons of paper.
 
 
 ## **Required**
