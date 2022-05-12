@@ -1,9 +1,9 @@
 # DTCID :: Digital Tailor Customer Information Database System
-[![info](https://badgen.net/badge/Project/Info/blue?icon=information)](https://github.com/hexdee606/SubDomain-GT#readme)
-[![Open source](https://badgen.net/badge/Open%20Source%3F/Yes%20%21/blue)](#)
-[![CC-0 license](https://img.shields.io/badge/License-CC--0-blue.svg)](https://github.com/hexdee606/SubDomain-GT/blob/main/LICENSE)
-[![vbnet](https://badgen.net/badge/Made%20with/vb.net/blue)](https://github.com/hexdee606/SubDomain-GT#readme#readme)
-[![status](https://badgen.net/badge/Status/Beta/yellow)](#)
+[![info](https://badgen.net/badge/Project/Info/blue?icon=information)](https://github.com/hexdee606/DTCID/#readme)
+[![Open source](https://badgen.net/badge/Open%20Source%3F/Yes%20%21/blue)](https://github.com/hexdee606/DTCID/blob/main/LICENSE)
+[![CC-0 license](https://img.shields.io/badge/License-CC--0-blue.svg)](https://github.com/hexdee606/DTCID/blob/main/LICENSE)
+[![vbnet](https://badgen.net/badge/Made%20with/vb.net/blue)](https://github.com/hexdee606/DTCID/#readme)
+[![status](https://badgen.net/badge/Status/Beta/yellow)](https://github.com/hexdee606/DTCID/#tested-on)
 [![Tool](https://badgen.net/badge/Passive/Tool/blue)](#)
 
 ## **About**
@@ -14,7 +14,7 @@
 
  Sr. | Operating System | Version | Status |
 --- | --- | --- | --- | 
-1 | <img align="center" src="https://img.icons8.com/office/25/windows-10.png">  Windows </img > | 7, 8, 8.1, 10 and 11 | [![status](https://badgen.net/github/status/micromatch/micromatch/4.0.1)](https://github.com/hexdee606/DTCID/edit/main/README.md#tested-on)| [![status](https://badgen.net/github/status/micromatch/micromatch/4.0.1)](https://github.com/hexdee606/DTCID/edit/main/README.md#tested-on)|
+1 | <img align="center" src="https://img.icons8.com/office/25/windows-10.png">  Windows </img > | 7, 8, 8.1, 10 and 11 | [![status](https://badgen.net/github/status/micromatch/micromatch/4.0.1)](https://github.com/hexdee606/DTCID/#tested-on)| [![status](https://badgen.net/github/status/micromatch/micromatch/4.0.1)](https://github.com/hexdee606/DTCID/#tested-on)|
 
 ## **Features** 
 
