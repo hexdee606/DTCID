@@ -28,7 +28,7 @@
 - MS access 2010 `required`
 - MS Access Database Engine 2010 `required`
 
-## How to setup SubDomain-GT
+## How to setup
 
 >**Create new directory** `Optional Step`
 ```console
@@ -38,7 +38,7 @@
  cd 'DTCID
 ```
 
->**Clone SubDomain-GT from github**
+>**Clone DTCID from github**
 ```console
  git clone "https://github.com/hexdee606/DTCID.git"
 ```
